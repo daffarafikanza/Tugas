@@ -1,0 +1,2 @@
+D:\19.11.2826 pemograman\Tugas 8\Inheritance,Polymorphsim,Abstraction,Collection\obj\Debug\Inheritance,Polymorphsim,Abstraction,Collection.exe
+D:\19.11.2826 pemograman\Tugas 8\Inheritance,Polymorphsim,Abstraction,Collection\obj\Debug\Inheritance,Polymorphsim,Abstraction,Collection.pdb
