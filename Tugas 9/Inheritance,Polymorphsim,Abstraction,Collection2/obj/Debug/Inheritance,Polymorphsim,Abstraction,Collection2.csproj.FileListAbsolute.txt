@@ -1,0 +1,6 @@
+D:\19.11.2826 pemograman\Tugas 9\Inheritance,Polymorphsim,Abstraction,Collection2\bin\Debug\Inheritance,Polymorphsim,Abstraction,Collection2.exe.config
+D:\19.11.2826 pemograman\Tugas 9\Inheritance,Polymorphsim,Abstraction,Collection2\bin\Debug\Inheritance,Polymorphsim,Abstraction,Collection2.exe
+D:\19.11.2826 pemograman\Tugas 9\Inheritance,Polymorphsim,Abstraction,Collection2\bin\Debug\Inheritance,Polymorphsim,Abstraction,Collection2.pdb
+D:\19.11.2826 pemograman\Tugas 9\Inheritance,Polymorphsim,Abstraction,Collection2\obj\Debug\Inheritance,Polymorphsim,Abstraction,Collection2.csprojResolveAssemblyReference.cache
+D:\19.11.2826 pemograman\Tugas 9\Inheritance,Polymorphsim,Abstraction,Collection2\obj\Debug\Inheritance,Polymorphsim,Abstraction,Collection2.exe
+D:\19.11.2826 pemograman\Tugas 9\Inheritance,Polymorphsim,Abstraction,Collection2\obj\Debug\Inheritance,Polymorphsim,Abstraction,Collection2.pdb
