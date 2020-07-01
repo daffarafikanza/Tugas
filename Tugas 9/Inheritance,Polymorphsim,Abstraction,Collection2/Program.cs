@@ -35,6 +35,8 @@ namespace Inheritance_Polymorphsim_Abstraction_Collection
             Karyawan.Add(karyawanTetap);
             Karyawan.Add(karyawanHarian);
             Karyawan.Add(sales);
+             
+            Menu(karyawan);
         }
 
          static void Menu(List<Karyawan> karyawan)
